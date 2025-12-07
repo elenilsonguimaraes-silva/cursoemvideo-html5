@@ -1,2 +1,2 @@
 # cursoemvideo-html5
-Exercicio do Curso de HTML8 e CSS do Curso em Vídeo
+Exercício do Curso de HTML5 e CSS do Curso em Vídeo
